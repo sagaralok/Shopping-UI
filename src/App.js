@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.scss";
+import "./app.css";
 
 import ProductCard from "./components/ProductCard";
 import products from "./products";
